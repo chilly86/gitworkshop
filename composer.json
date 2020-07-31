@@ -1,0 +1,11 @@
+{
+    "name": "lightbulb/gitworkshop",
+    "description": "Git workshop",
+    "authors": [
+        {
+            "name": "Vilmos \"Chilly\" Kovacs",
+            "email": "kchilly86@gmail.com"
+        }
+    ],
+    "require": {}
+}
